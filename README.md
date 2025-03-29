@@ -1,4 +1,7 @@
  # rodar o dockerfile
+
+Esta é uma lista de atividades simples em kotlin que foram passadas pelo professor
+
 1 - Clone o repositório e acesse a pasta:
 
 git clone https://github.com/oaocd1/GustavoBabboni-1414-Kotlin-Onda-2 && cd GustavoBabboni-1414-Kotlin-Onda-2
