@@ -1,7 +1,7 @@
-# Atividades Rasso Kotlin
+ # rodar o dockerfile
 1 - Clone o repositório e acesse a pasta:
 
-git clone https://github.com/seu-usuario/meu-projeto-kotlin.git && cd meu-projeto-kotlin
+git clone https://github.com/oaocd1/GustavoBabboni-1414-Kotlin-Onda-2 && cd GustavoBabboni-1414-Kotlin-Onda-2
 
 2 - Construa e rode o container:
 
